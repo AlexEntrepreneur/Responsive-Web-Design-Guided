@@ -95,6 +95,15 @@ header nav .first-anchor {
   }
 }
 
+button {
+  border: none;
+  padding: 8px 40px;
+  min-width: 200px;
+  background-color: dodgerblue;
+  margin-bottom: 20px;
+  color: white;
+}
+
 .main-footer {
   margin-bottom: 40px;
   display: flex;
@@ -108,3 +117,4 @@ header nav .first-anchor {
   display: flex;
   justify-content: space-around;
 }
+
