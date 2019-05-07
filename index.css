@@ -104,6 +104,16 @@ button {
   color: white;
 }
 
+.book-flight-btn-mobile {
+  width: 100%;
+}
+
+@media(min-width: 520px) {
+  .book-flight-btn-mobile {
+    width: unset;
+  }
+}
+
 .main-footer {
   margin-bottom: 40px;
   display: flex;
