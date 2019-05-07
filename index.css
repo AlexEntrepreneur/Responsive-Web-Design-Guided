@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: sans-serif;
+  font-size: 62.5%;
 }
 
 *, *:before, *:after {
@@ -8,7 +9,7 @@ html {
 }
 
 h1, h2, h3, h4, h5 {
-  font-size: 20px;
+  font-size: 2rem;
 }
 
 img {
@@ -17,6 +18,7 @@ img {
 }
 
 p {
+  font-size: 1.6rem;
   line-height: 1.25;
   margin: 20px 0;
 }
@@ -54,7 +56,7 @@ header {
 
 /* Header Styles Here */
 header h1 {
-  font-size: 20px;
+  font-size: 2rem;
 }
 
 header nav {
