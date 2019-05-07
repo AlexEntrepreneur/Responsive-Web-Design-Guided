@@ -111,6 +111,8 @@ button {
 @media(min-width: 520px) {
   .book-flight-btn-mobile {
     width: unset;
+    color: black;
+    background-color: greenyellow;
   }
 }
 
