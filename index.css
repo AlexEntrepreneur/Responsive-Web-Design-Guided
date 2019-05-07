@@ -85,6 +85,16 @@ header nav .first-anchor {
   width: 45%;
 }
 
+@media(max-width: 520px) {
+  .main-content {
+    flex-direction: column;
+  }
+  .main-content section {
+    width: 100%;
+    margin: 0;
+  }
+}
+
 .main-footer {
   margin-bottom: 40px;
   display: flex;
